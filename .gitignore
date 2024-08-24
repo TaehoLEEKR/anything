@@ -4,4 +4,4 @@ server/config/json
 .idea
 server/config
 /server/config/json/
-/config/json/config.json
+/config/json/configEnv.json
